@@ -1,5 +1,8 @@
 # overview_activity
 simple Python script using the GitHub API and the matplotlib library to generate a pie chart showing the primary language distribution of the repositories you contributed to in the current year.  
+```bash
+pip install requests matplotlib
+```
 
 Make sure to replace `'YOUR_GITHUB_USERNAME'` and `'YOUR_GITHUB_TOKEN'` with your actual GitHub username and token.  
 ```python
